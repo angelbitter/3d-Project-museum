@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(133,16): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(133,16): message : considere el uso de ' %zd' en la cadena de formato
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(134,16): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(134,16): message : considere el uso de ' %zd' en la cadena de formato
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(135,16): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(135,16): message : considere el uso de ' %zd' en la cadena de formato
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(136,16): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(136,16): message : considere el uso de ' %zd' en la cadena de formato
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(356,51): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(357,51): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(361,57): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(362,57): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(366,56): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(367,56): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(371,56): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\FreeGlut_00\main.cpp(372,56): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+  FreeGlut_00.vcxproj -> C:\Users\samal\source\repos\FreeGlut_05_ImportarModelosCuboGiratorio\x64\Debug\FreeGlut_00.exe
+          1 archivo(s) copiado(s).

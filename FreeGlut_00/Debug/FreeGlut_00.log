@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\jesus\source\repos\FreeGlut_05_MuseoNuevo\FreeGlut_00\main.cpp(995,51): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jesus\source\repos\FreeGlut_05_MuseoNuevo\FreeGlut_00\main.cpp(996,51): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jesus\source\repos\FreeGlut_05_MuseoNuevo\FreeGlut_00\main.cpp(1000,57): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jesus\source\repos\FreeGlut_05_MuseoNuevo\FreeGlut_00\main.cpp(1001,57): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jesus\source\repos\FreeGlut_05_MuseoNuevo\FreeGlut_00\main.cpp(1005,56): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jesus\source\repos\FreeGlut_05_MuseoNuevo\FreeGlut_00\main.cpp(1006,56): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jesus\source\repos\FreeGlut_05_MuseoNuevo\FreeGlut_00\main.cpp(1010,56): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jesus\source\repos\FreeGlut_05_MuseoNuevo\FreeGlut_00\main.cpp(1011,56): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+  FreeGlut_00.vcxproj -> C:\Users\jesus\source\repos\FreeGlut_05_MuseoNuevo\Debug\FreeGlut_00.exe
+          1 archivo(s) copiado(s).
